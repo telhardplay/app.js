@@ -1,2 +1,4 @@
-console.log("rodando")
+console.log("rodando");
+
+console.log("inserção");
 
