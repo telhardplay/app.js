@@ -1,5 +1,5 @@
 // criei este novo arquivo no VSCODE
 
-console.log("INCUSAO");
+console.log("INCUSAO 2");
 
-console.log("inserção");
+console.log("inserção 2");
