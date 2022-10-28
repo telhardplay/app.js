@@ -4,6 +4,3 @@ console.log("rodando");
 
 console.log("inserção");
 
-console.log("inserçãoo");
-
-console.log("teste restore");
